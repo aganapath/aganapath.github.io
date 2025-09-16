@@ -1,52 +1,16 @@
----
-permalink: /
----
-# **Documentation**
-> How this project works and how to maintain your own
+# Anjani's Personal Website
+> Welcome! You've reached the space that I use to share my work with the world.
 
-<div align="center">
-    <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
-        <img src="https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge" alt="Use this template">
-    </a>
-</div>
+## About Me
 
+I am a Computational Linguist with a background in engineering, data analytics, and financial services. I have previous expertise in data product creation and management, financial data (specifically in consumer credit card / retail banking), and team management. I have just completed a masters in Computational Linguistics at UCL (c/o 2025) and am looking to re-enter the workplace with the new knowledge I have in NLP research.
 
-## About
+Get in touch! My email is anjani.ganapathy@gmail.com.
 
-This project is built around using markdown content to make a website. 
+## Highlighted Work
 
-This is great for non-developers to work on. No experience with Ruby, Jekyll, Liquid, HTML or CSS required. Those are all used internally, but you don't need to worry about that.
+- My CompLing master's thesis on [VQ-VAEs & Gumbel-Softmax for Language-Aware POS Induction](docs/VQ-VAEs_POS_Induction_2025_AG_Diss.pdf)
 
-This repo is super light. No config needed. You don't need to setup a theme or a layout. GitHub will figure that out and will apply its standard theme to your GitHub Pages site. So will it will have a clean, white, mobile-friendly site with a heading. The limitations are covered more on these pages, such as lack of a navbar. But you can still setup links to pages, as with the Menu below.
-
-The page you are currently viewing is `README.md` in the docs directory, with path set as `/` in the frontmatter. Alternatively, you can add `index.md` or `index.html` as your homepage. I just like how a README.md previews well in GitHub.
-
-
-## How to use this project
-
-- Template for a new project or docs site. Or use as a reference for existing projects.
-- Read the tutorial content under template notes.
-- View this live demo site.
-
-
-## Menu
-
-Some info on how to make a site like this and how it works.
-
-- [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
-
-
-## Source
-
-View source on GitHub:
-
-[![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
-
-
-## Documentation template
-
-If you're looking for template docs which you can easily edit and reuse for your own site, rather see my [Generic Project Template](https://michaelcurrin.github.io/generic-project-template/) project's docs. It uses the same docs site approach as this one.
-
+## Documents / Other Resources
+- [CV](docs/Anjani_Ganapathy_Resume_Aug_2025.pdf)
+- [Github](https://github.com/aganapath)
