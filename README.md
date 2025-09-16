@@ -1,31 +1,16 @@
-# GH Pages Site (No Jekyll)
-> Template for a Markdown-based docs site hosted on GH Pages
+# Anjani's Personal Website
+> Welcome! You've reached the space that I use to share my work with the world.
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gh-pages-no-jekyll?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+## About Me
 
-Write Markdown or HTML pages and use GitHub's default theme for your site. No configuration needed. All you need is HTML, Markdown, and CSS knowledge - no need to use Jekyll templating or Liquid syntax.
+I am a Computational Linguist with a background in engineering, data analytics, and financial services. I have previous expertise in data product creation and management, financial data (specifically in consumer credit card / retail banking), and team management. I have just completed a masters in Computational Linguistics at UCL (c/o 2025) and am looking to re-enter the workplace with the new knowledge I have in NLP research.
 
+Get in touch! My email is anjani.ganapathy@gmail.com.
 
-## Preview
+## Highlighted Work
 
-<div align="center">
-    <a href="https://michaelcurrin.github.io/gh-pages-no-jekyll/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
-    </a>
-</div>
+- My CompLing master's thesis on [VQ-VAEs & Gumbel-Softmax for Language-Aware POS Induction](docs/VQ-VAEs_POS_Induction_2025_AG_Diss.pdf)
 
-<br>
-
-<div align="center">
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
-
-</div>
-
-
-## License
-
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+## Documents / Other Resources
+- [CV](docs/Anjani_Ganapathy_Resume_Aug_2025.pdf)
+- [Github](https://github.com/aganapath)
