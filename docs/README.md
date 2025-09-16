@@ -1,5 +1,5 @@
 ---
-permalink: /README.md
+permalink: /
 ---
 
 # Anjani's Personal Website
