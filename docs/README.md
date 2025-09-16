@@ -1,3 +1,7 @@
+---
+permalink: /README.md
+---
+
 # Anjani's Personal Website
 > Welcome! You've reached the space that I use to share my work with the world.
 
