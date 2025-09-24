@@ -10,6 +10,7 @@ Get in touch! My email is anjani.ganapathy@gmail.com.
 ## Highlighted Work
 
 - My CompLing master's thesis on [VQ-VAEs & Gumbel-Softmax for Language-Aware POS Induction](docs/VQ-VAEs_POS_Induction_2025_AG_Diss.pdf)
+  - [Associated Github repository](https://github.com/aganapath/hindi-pos-tagging-vqvae)
 
 ## Documents / Other Resources
 - [CV](docs/Anjani_Ganapathy_Resume_Sept_2025.docx.pdf)
