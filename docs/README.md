@@ -19,6 +19,6 @@ Get in touch! I love to chat about natural language/linguistics, NLP, data, and 
   - [Associated Github repository](https://github.com/aganapath/hinglish-machine-translation)
 
 ## Documents / Other Resources
-- [CV](Anjani_Ganapathy_Resume_Sept_2025.docx.pdf)
+- [CV](Anjani_Ganapathy_Resume_Jan_2026.docx.pdf)
 - [Github](https://github.com/aganapath)
 
