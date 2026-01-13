@@ -13,5 +13,5 @@ Get in touch! My email is anjani.ganapathy@gmail.com.
   - [Associated Github repository](https://github.com/aganapath/hindi-pos-tagging-vqvae)
 
 ## Documents / Other Resources
-- [CV](docs/Anjani_Ganapathy_Resume_Sept_2025.docx.pdf)
+- [CV](docs/Anjani_Ganapathy_Resume_Jan_2026.docx.pdf)
 - [Github](https://github.com/aganapath)
